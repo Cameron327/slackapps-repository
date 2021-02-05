@@ -1,0 +1,9 @@
+
+1. Three things that I found interesting that I would like to learn more about is writing code for the Bolt 
+framework because I have not done this before, learning that you could do a lot of different things with Bolt 
+like deleting chats and creating conversations, and the many uses of Slack apps using its many APIs.
+
+2. Three things that I found difficult to understand were how to use git, how to actually program and utilize 
+Bolt for its capabilities, and trying to understand the difference between Slack apps and Slack bots. 
+
+
