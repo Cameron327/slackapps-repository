@@ -1,0 +1,3 @@
+Create a post request that prints a hello message to your local host server. Create another post request that takes parameters for a book and author, then prints out a sentence using the information.
+
+Refer to the articles above and feel free to reach out to your mentors with any questions!
