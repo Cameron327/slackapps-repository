@@ -1,0 +1,3 @@
+
+Instead of reacting to stars, set it up to react to comments. 
+
